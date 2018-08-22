@@ -1,0 +1,44 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    padding: 0;
+    margin: 0 auto;
+    width:1024px;
+}
+header{
+    margin: 20px 0px 40px 0px;
+}
+h2{
+    padding-left: 250px;
+    
+}
+li:hover{
+    background-color:#f2f2f2;
+    
+}
+li{
+    list-style: none;
+    background-color:coral;
+}
+.text-input-area{
+    width: 100px;
+}
+.text-input-area input{
+    
+    width: 800px;
+    padding: 10px 40px 10px 0px;
+    background-color:#f2f2f2;
+}
+ul{
+    max-height:100px;
+    overflow: auto;
+    width: 850px;
+    
+    
+}
+.text-input-area{
+    display: block;
+}
